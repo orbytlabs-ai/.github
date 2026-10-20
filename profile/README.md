@@ -1,6 +1,6 @@
 # Orbyt Labs
 
-Orbyt Labs is one founder and a team of AI agents that build its products, run its departments, and can refuse him.
+Orbyt Labs is one founder and a leadership team of AI agents that build with him and run scheduled work, and whose checks can refuse him.
 
 Author: Justin Bartak, ORCID [0009-0005-2615-3624](https://orcid.org/0009-0005-2615-3624), Wikidata [Q139551829](https://www.wikidata.org/wiki/Q139551829). Organization: Orbyt Labs, Wikidata [Q139551916](https://www.wikidata.org/wiki/Q139551916), https://www.orbytlabs.ai.
 
