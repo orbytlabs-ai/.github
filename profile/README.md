@@ -20,6 +20,11 @@ Website: https://www.orbytlabs.ai. Research: https://www.orbytlabs.ai/research. 
 - [Every Guard Must Prove It Can Stay Silent](https://www.orbytlabs.ai/research/guard-harness), collected 2026-09-25. Summary and citation: [notes/2026/guard-harness.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/guard-harness.md).
 - [A Single Agent and a Research Team on Equal Ceilings](https://www.orbytlabs.ai/research/single-agent-vs-team), collected 2026-09-17. Summary and citation: [notes/2026/single-agent-vs-team.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/single-agent-vs-team.md).
 
+## Preregistrations
+
+- [Did the Machine Learn From Its Last Failure?](https://www.orbytlabs.ai/research/did-the-machine-learn). Published before any result: [notes/2026/did-the-machine-learn.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/did-the-machine-learn.md).
+- [Governing a Self-Repairing Agent Organization](https://www.orbytlabs.ai/research/governing-self-repair). Published before any result: [notes/2026/governing-self-repair.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/governing-self-repair.md).
+
 Corrections: report an error at https://www.orbytlabs.ai/contact. A corrected record is published as a new version, and its changelog names what changed.
 
 ---
