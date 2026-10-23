@@ -1,6 +1,6 @@
 # Orbyt Labs
 
-Orbyt Jobs and Orbyt Intelligence are built to help people get hired. Orbyt Collective, “The Machine,” is the AI leadership team we’re building to create products and run the company. One lab builds both, in public.
+Orbyt Jobs and Orbyt Intelligence are built to help people get hired. Orbyt Collective, “The Machine,” is the AI leadership team one founder is building to create products and run the company. Officers can refuse him. The record is public.
 
 Author: Justin Bartak, ORCID [0009-0005-2615-3624](https://orcid.org/0009-0005-2615-3624), Wikidata [Q139551829](https://www.wikidata.org/wiki/Q139551829). Organization: Orbyt Labs, Wikidata [Q139551916](https://www.wikidata.org/wiki/Q139551916), https://www.orbytlabs.ai.
 
