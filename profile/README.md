@@ -13,9 +13,9 @@ Website: https://www.orbytlabs.ai. Research: https://www.orbytlabs.ai/research. 
 
 ## Field notes
 
+- [What an Agent Seat Actually Completes](https://www.orbytlabs.ai/research/agent-seat-completion), collected 2026-11-12. Summary and citation: [notes/2026/agent-seat-completion.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/agent-seat-completion.md).
 - [96 Ways the Agents Were Confidently Wrong](https://www.orbytlabs.ai/research/confidently-wrong), collected 2026-10-07. Summary and citation: [notes/2026/confidently-wrong.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/confidently-wrong.md).
 - [A Model Upgrade on a Frozen Dependency Review](https://www.orbytlabs.ai/research/model-upgrade-trial), collected 2026-10-03. Summary and citation: [notes/2026/model-upgrade-trial.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/model-upgrade-trial.md).
-- [What an Agent Seat Actually Completes](https://www.orbytlabs.ai/research/agent-seat-completion), collected 2026-09-26. Summary and citation: [notes/2026/agent-seat-completion.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/agent-seat-completion.md).
 - [The Cache-Read Tax](https://www.orbytlabs.ai/research/agent-token-economics), collected 2026-09-26. Summary and citation: [notes/2026/agent-token-economics.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/agent-token-economics.md).
 - [Every Guard Must Prove It Can Stay Silent](https://www.orbytlabs.ai/research/guard-harness), collected 2026-09-25. Summary and citation: [notes/2026/guard-harness.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/guard-harness.md).
 - [A Single Agent and a Research Team on Equal Ceilings](https://www.orbytlabs.ai/research/single-agent-vs-team), collected 2026-09-17. Summary and citation: [notes/2026/single-agent-vs-team.md](https://github.com/orbytlabs-ai/ai-agent-research/blob/main/notes/2026/single-agent-vs-team.md).
