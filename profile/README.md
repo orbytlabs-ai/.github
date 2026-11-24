@@ -1,6 +1,6 @@
 # Orbyt Labs
 
-Building both sides of the future of work. We help people find work and understand pay. We’re building the Machine to run companies and Launch Keys to keep humans in control. Built for others. Tested here. The record is public.
+Building both sides of the future of work. We help people find work and understand pay. We’re building the Machine to run companies, and Launch Keys to keep humans in control.
 
 Author: Justin Bartak, ORCID [0009-0005-2615-3624](https://orcid.org/0009-0005-2615-3624), Wikidata [Q139551829](https://www.wikidata.org/wiki/Q139551829). Organization: Orbyt Labs, Wikidata [Q139551916](https://www.wikidata.org/wiki/Q139551916), https://www.orbytlabs.ai.
 
